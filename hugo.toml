@@ -16,11 +16,6 @@ theme = 'study_blog_relearn'
     url = 'https://github.com/compact-curriculum/'
     weight = 12
 
-[[menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Acknowledgements"
-    url = '/credits/'
-    weight = 30
-
 [params]
   additionalContentLanguage = ['en']
   alwaysopen = ''
