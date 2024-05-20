@@ -10,8 +10,9 @@ Deepgram offers a variety of settings to customize how your audio is transcribed
 **General Transcription Settings:**
 
 *   **Language:** Specify the language spoken in the audio. Usually best to use **Automatic Language Detection**
-*   **Punctuation:** Enable or disable automatic punctuation in the transcript. 
+*   **Punctuation:** Enable or disable automatic punctuation in the transcript.
 *   **Diarization:** Identify and label different speakers in the audio.
+*   **Summarization (English only):** Generates a short summary of the transcript.
 
 **Formatting Options:**
 

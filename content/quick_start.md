@@ -5,6 +5,8 @@ draft = false
 weight = 1
 +++
 
+![Deepgram_instructions](/Transcribe_Audio/images/deepgram_quickstart_instructions.gif)
+
 Getting Started with Deepgram's API Playground: Step-by-Step Guide
 
 1. **Create a Deepgram Account:**
@@ -18,4 +20,6 @@ Getting Started with Deepgram's API Playground: Step-by-Step Guide
    - Upload an audio file
    - Press **Run** to transcribe
 
-4. ** ***Optional*** ** [**modify settings using advanced features**](features.md)
+###### Note that submitted file sizes are limited to 2 GB so it is recommended to [separate out the audio channel](separate_audio.md) if you are submitting a video file
+
+** ***Optional*** ** [**modify settings using advanced features**](features.md)

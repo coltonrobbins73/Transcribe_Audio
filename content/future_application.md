@@ -2,7 +2,7 @@
 title = 'Future Application'
 date = 2024-05-18T09:40:52-07:00
 draft = false
-weight = 3
+weight = 4
 +++
 
 Deepgram's API enables seamless interaction with their speech recognition engine. Essentially, you send your audio files (or audio streams) to Deepgram's servers, and their advanced algorithms analyze the audio, converting it into text transcripts. The API returns these transcripts, along with additional details like timestamps, speaker labels (if diarization is enabled), and language identification. You can interact with the API using various programming languages and libraries, making it easy to integrate Deepgram's capabilities into your own applications.
